@@ -46,6 +46,8 @@ formato tan apretado; hacer el tema personalizado del diario implicaría aún m�
 precisamente el trabajo de docente no deja mucho tiempo libre ni energía para proyectos
 personales.
 
+## ¿Para qué?
+
 En otra capa, queda la duda de por qué un blog escrito. Tal vez a inicios del 2000 pudo ser
 un espacio que llegara a miles. Hoy no solo la gente no lee, es que hay redes sociales más
 eficaces, como TikTok o YouTube ([tengo canal](http://www.youtube.com/@Andr3sHu)). Que también requieren
