@@ -18,8 +18,9 @@ params:
   priority: 10
   process: "inicio"
   created: "1989"
+  image: ![1](2.jpg)
 ---
-![1](2.jpg)
+
 
 Esto es algo que quise hacer hace mucho tiempo: dejar una señal para el futuro, construir un lugar al que pueda volver para reencontrarme y reorganizarme, entenderme y, principalmente, ya que mi memoria cada vez es más frágil, recordarme lo que es importante para mí.
 
