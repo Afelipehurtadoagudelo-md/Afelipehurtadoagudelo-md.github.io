@@ -1,9 +1,16 @@
-```
+---
 title: "Querido Martín: carta número uno"
 date: 2026-03-22
 tags:
-  - martín  - cartas  - paternidad  - verdad
+  - martín
+  - cartas
+  - paternidad
+  - verdad
 summary: "Escribo esto rápido, por si algo me pasa. Para que exista mi versión. Para que sepas que estuve."
+---
+
+
+Escribo esto rápido, por si algo me pasa. Para que exista mi versión. Para que sepas que estuve."
 ```
 
 # Querido Martín: carta número uno
