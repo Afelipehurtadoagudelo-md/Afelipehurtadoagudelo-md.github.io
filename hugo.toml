@@ -36,3 +36,9 @@ defaultContentLanguage = "es"
     enabled = true
     local = true
     src = "img/avatar.jpg"
+
+    [outputs]
+    home = ["HTML", "RSS", "JSON"]
+
+[params.search]
+    enabled = true
