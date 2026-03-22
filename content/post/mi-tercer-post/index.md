@@ -96,7 +96,7 @@ Entonces pasa algo muy cómodo para el sistema: al final se invoca la igualdad f
 
 Ese contraargumento suena bonito. También suena incompleto.
 
-Tomemos un caso concreto. COLFUTURO dice en su página [cómo selecciona](https://www.colfuturo.org/programas/credito-beca/como-seleccionamos) a sus beneficiarios y habla de **meritocracia***, excelencia académica y calidad del programa. Pero cuando uno revisa el detalle, la cosa se ve más clara: el [acta de selección 2025](https://aplicaciones.colfuturo.org/descargas/Convocatoria/2025_05_13_Acta_Junta.pdf) muestra una ponderación ****de 38 % para el programa** **(Los progrmas más pretigiosso también bebén de capital social)*, 37 % para el factor académico *(notas)*, 20 % para inglés y apenas 5 % para el ensayo.
+Tomemos un caso concreto. COLFUTURO dice en su página [cómo selecciona](https://www.colfuturo.org/programas/credito-beca/como-seleccionamos) a sus beneficiarios y habla de **meritocracia***, excelencia académica y calidad del programa. Pero cuando uno revisa el detalle, la cosa se ve más clara: el [acta de selección 2025](https://aplicaciones.colfuturo.org/descargas/Convocatoria/2025_05_13_Acta_Junta.pdf) muestra una ponderación ****de 38 % para el programa** **(Los programas más pretigiosos también bebén de capital social como ''token'' de ingreso)*, 37 % para el factor académico *(notas)*, 20 % para inglés y apenas 5 % para el ensayo.
 
 Peor todavía: el [instructivo oficial](https://sites.colfuturo.org/links/Convocatoria_2026/20260205instructivoformulario2026vf.pdf) dice expresamente que no hacen entrevista personal.
 
