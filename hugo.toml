@@ -1,28 +1,33 @@
 theme = 'hugo-theme-stack'
 enableGitInfo = true
-title = "Blog personal"
-date: 1989
-topics:
-  - "Sistema educativo"
-  - "Política y poder"
-  - "Instituciones"
-  - "Cultura pública"
-  - "Historia del presente"
-actual_reads: 
-- "Hobbes"
-- "WatchMen"
-- "Tiger"
-x: "@phiLL3141"
+title = "[[Andrés Felipe Hurtado]]"
 languageCode = "es"
 defaultContentLanguage = "es"
 
 [author]
-  name = "Andres Felipe Hurtado Agudelo"
-
+  name = "Andrés Felipe Hurtado Agudelo"
 
 [params]
   mainSections = ["post"]
   description = "Lo que rescato de mi diario"
+  # Aquí he metido tus temas y lecturas para que Hugo no de error
+  topics = ["Sistema educativo", "Política y poder", "Instituciones", "Cultura pública", "Historia del presente"]
+  actual_reads = ["Hobbes", "WatchMen", "Tiger"]
+  x_handle = "@phiLL3141"
+  birth = "1989"
+
+  [params.sidebar]
+    subtitle = "Memoria."
+
+  [params.avatar]
+    enabled = true
+    local = true
+    src = "img/avatar.jpg"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
   [params.sidebar]
     subtitle = "Lo que rescato de mi diario"
