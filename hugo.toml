@@ -1,12 +1,27 @@
 theme = 'hugo-theme-stack'
 enableGitInfo = true
-title = "Blog de Vida"
+title = "Blog personal"
+date: 1989
+topics:
+  - "Sistema educativo"
+  - "Política y poder"
+  - "Instituciones"
+  - "Cultura pública"
+  - "Historia del presente"
+
+actual_reads: 
+- "Hobbes"
+- "WatchMen"
+- "Tiger"
+
+x: "@phiLL3141"
+
 languageCode = "es"
 defaultContentLanguage = "es"
 
 [author]
-  name = "Andres Hurtado Agudelo"
-  email = "andfelhu@gmail.com"
+  name = "Andres Felipe Hurtado Agudelo"
+
 
 [params]
   mainSections = ["post"]
