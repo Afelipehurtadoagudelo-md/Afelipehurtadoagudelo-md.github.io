@@ -21,6 +21,12 @@ defaultContentLanguage = "es"
     # Esto activa el switch visual en la barra lateral
     displayModeSwitch = true
 
+    [params]
+    # ... otras cosas que ya tienes ...
+    [params.style]
+        defaultMode = "auto"
+        displayModeSwitch = true
+
   [params.sidebar]
     subtitle = "Memoria. Lo que rescato de mi diario"
     enabled = true
