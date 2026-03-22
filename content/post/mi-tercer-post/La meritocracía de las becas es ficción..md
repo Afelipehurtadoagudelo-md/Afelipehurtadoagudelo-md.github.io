@@ -1,35 +1,35 @@
 ---
-
 title: "La meritocracía de las becas es ficción."
-date: "03/21/2026"
+date: 2026-03-21
 draft: false
-tags:
 
-- "Educación"
-- "Becas"
-- "Meritocracia"
-- "Clase-Social"
-- "Universidad-Pública"
-- "Capital-Cultural"
-- "Colfuturo"
-- "Desigualdad-Estructural"
-- "Desigualdad"
-- "Maestria"
-- "Maestría-Colfuturo"
-- "Colombia"
-- "Educación-Colombia"
-- "Sistema-Educativo"
-- "Pobreza"
-- "Engaño"
-- "Política-Exterior"
-- "Pensamiento-Sistemico"
-- "Sistemas"
-  summary: >-
-  No discuto que existan becas. Discuto el filtro con el que deciden quién merece
-  soñarlas.
-  priority: 7
-  importancia: 8
---- 
+tags:
+  - "Educación"
+  - "Becas"
+  - "Meritocracia"
+  - "Clase-Social"
+  - "Universidad-Pública"
+  - "Capital-Cultural"
+  - "Colfuturo"
+  - "Desigualdad-Estructural"
+  - "Desigualdad"
+  - "Maestría"
+  - "Maestría-Colfuturo"
+  - "Colombia"
+  - "Educación-Colombia"
+  - "Sistema-Educativo"
+  - "Pobreza"
+  - "Engaño"
+  - "Política-Exterior"
+  - "Pensamiento-Sistémico"
+  - "Sistemas"
+
+summary: >-
+  No discuto que existan becas. Discuto el filtro con el que deciden quién merece soñarlas.
+
+priority: 7
+importancia: 8
+---
 
 # La meritocracía de las becas es ficción.
 
