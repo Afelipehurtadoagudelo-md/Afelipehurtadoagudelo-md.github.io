@@ -1,13 +1,15 @@
 ---
-title: "Blog Personal
-Date: 9 de Enero
-- Draft [x] 
+title: "Blog Personal"
+date: 2026-01-09
+draft: true
+
 topics:
-  - "Sistema educatioa"
+  - "Sistema educativo"
   - "Política y poder"
   - "Instituciones"
   - "Cultura pública"
   - "Historia del presente"
-Actual read: Hobbes
-X: @phiLL3141
+
+actual_read: "Hobbes"
+x: "@phiLL3141"
 ---
