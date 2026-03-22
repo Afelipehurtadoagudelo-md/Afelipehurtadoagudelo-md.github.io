@@ -24,5 +24,3 @@ Esto es algo que quise hacer hace mucho tiempo: dejar una señal para el futuro,
 La pena más grande que he vivido hasta hoy me empujó a dar este paso. No redacto sobre ello en esta entrada porque es el hito más grande de mi vida y amerita que me extienda mucho más.
 
 La memoria de mi papá merece capítulos exclusivos y detalles que deben permanecer por lo que quede del tiempo. Hoy, solo construyo la puerta de entrada.
-
-<span style="color: white;"> *QW5kcsOpcyBGZWxpcGUgSHVydGFkbyBBZ3VkZWxv* </span>
