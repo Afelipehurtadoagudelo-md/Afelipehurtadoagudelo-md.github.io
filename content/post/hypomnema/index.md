@@ -1,6 +1,6 @@
-## No todo serán párrafos ordenados — tampoco es algo organizado ni algo a lo que le dedique más de una tarde. A veces el tiempo es menor o las obligaciones mayores, y siento que hay cosas que debo decir, así sea con brevedad.
+## Este post es menor organizado, no es algo a lo que le dedique más de una tarde. A veces el tiempo es menor o las obligaciones mayores, y siento que hay cosas que debo decir, así sea con brevedad.
 
-#### Esto parece redundante, pues todo el blog es un hypomnema, pero quise terner un espacio más breve aún, sin nada de desarrollo. Carpeta siempre estarán en construcción. Aquí agregaré todo lo que sea más breve que el cuarderno y debería ser un *framework*.
+#### Esto parece redundante, pues todo el blog es un hypomnema, pero quise terner un espacio más breve aún, sin nada de desarrollo. Carpeta que siempre estarán en construcción. 
 
 - No tomarse nunca en serio ni los insultos ni los halagos: provienen del mismo tipo de personas y tienen la misma intención.
 
