@@ -53,7 +53,7 @@ El primer cuento: "El perro". Sencillo, tremendo, crudo, de frente. Usa los pers
 - ***Pedro Páramo* — Juan Rulfo** = Breve pero que no he terminado. Leo un poco y me deja pensando.
 
 - ***El camino del Tao* - Lao Tse** = Leo, leo a parte breves. Leo un poco y necesito tiempo para porcesar lo que voy descubriendo. Es un libro para leer despacio, incluso volver a algunos apartes.
-  - 
+
 - *El efecto Lucifer* — Philip Zimbardo = Más de la verdadera [[La condición humana]]. Que sea en parte producto de un experiemnto es valioso porque no es teoría o supocisión.
 - *Batman: The Killing Joke* — Alan Moore
 - *The Universe in a Nutshell* — Stephen Hawking
