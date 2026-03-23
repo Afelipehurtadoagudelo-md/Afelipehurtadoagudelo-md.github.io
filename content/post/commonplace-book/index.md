@@ -62,7 +62,7 @@ estado: construcción-permanente
 Cada vez menos, y cada vez menos en español. La mayoria de *podcast* en español son copias de algo que ya existe, y mejor, en el mundo anglosajon. La pereza de muchos por no ir a la fuente o de no darse la oportunidad de escuchar algo en inglés hace que se acerquen a una versión incompleta en español.
 
 - [*philosophize this!*](https://www.philosophizethis.org/podcast)
-- [*Desde el oObservatorio](https://open.spotify.com/show/10mKL7DegYbcSdYiwUCjCn)
+- [Desde el observatorio](https://open.spotify.com/show/10mKL7DegYbcSdYiwUCjCn)
 - *Pixelania Podcast*
 - -[*parque Explora*](https://www.parqueexplora.org/aprende/podcast)
 - *Lex Fridman* = Este podcast no es bueno *per se*, el presentador no tiene realmente un talento. Se nota plástico y artificial [[La condición humana]], PERO, los invitados que lleva son de alta calidad.
