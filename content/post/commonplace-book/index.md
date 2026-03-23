@@ -14,7 +14,7 @@ tags:
   - coetzee
   - zimbardo
   - luhmann
-   - método
+  - método
 importancia:7
 
 tema:
