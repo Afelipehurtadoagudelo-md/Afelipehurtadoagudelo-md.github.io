@@ -1,5 +1,5 @@
 ---
-title: "Commonplace Book"
+title: "Lista de Canon"
 date: 2025-01-01
 
 tags:
@@ -38,12 +38,22 @@ estado: construcción-permanente
 ## Lecturas que más me han marcado. 
 *No estan en un orden especifico, excepto el primero*:
 
-- [*La muerte de Iván Ilich* — Tolstói](https://www.elejandria.com/libro/la-muerte-de-ivan-ilich/tolstoi-leon/1797)
-- *Siete cuentos morales* — J. M. Coetzee [[La condición humana]]
-- Federico Nietszche — ***Todo*** = Si hay experiencia: Así hablo Zaratustra. Si hay rabia: No el ''anticristo''. Si hay ganas de aprender: ''La genealogía de moral''.
-- *Steve Jobs* — Walter Isaacson = Es un biografia muy bien escrita de alguien no menor. Es cruda, no da vueltas. Deja ver como ese mundo y como crece alguien en ese mundo tech, ycreo que engenral en USA. Vale la pena también apra entender el entonro cultural y la menra de pensar dominante que proviene de ese lugar y tiempo en concreto.
-- *Pedro Páramo* — Juan Rulfo = Breve pero que no he terminado. Leo un poco y me deja pensando.
-- *El camino del Tao* - Lao Tse = Leo, leo a parte breves. Leo un poco y necesito tiempo para porcesar lo que voy descubriendo. Es un libro para leer despacio, incluso volver a algunos apartes.
+- **[*La muerte de Iván Ilich* — Tolstói](https://www.elejandria.com/libro/la-muerte-de-ivan-ilich/tolstoi-leon/1797)**
+
+  
+- ***Siete cuentos morales* — J. M. Coetzee** [[La condición humana]]
+El primer cuento: "El perro". Sencillo, tremendo, crudo, de frente. Usa los personajes que precisamente no esperás encontrar con esas reacciones, pero que son los que deberías tener más presentes. Una viejita y un viejito. ¿Es que no pueden ser malas personas por ser viejos? ¿Qué pensaron, que por tirar una referencia a Francia, como una frase pen su carrasposo ascento, iba a ser un cuento romántico? Pone de frente todos los sesgos que se pagan en el halo cultural. El final me encantó, porque precisamente no es un cuento de hadas, auqnue hay un dejo de eso al inicio y partes de su desarrollo, pero el final es un resumen de lo real cotidiano.
+
+
+- **Federico Nietszche** — ***Todo*** = Si hay experiencia: Así hablo Zaratustra. Si hay rabia: No el ''anticristo''. Si hay ganas de aprender sobre como se construye el mundo: ''La genealogía de moral''.
+  
+- ***Steve Jobs* — Walter Isaacson** = Es un biografia muy bien escrita. Es cruda, no da vueltas. Deja ver desde la vida de esa persona, como es ese mundotech, y creo que en general es la mentalidad más común hoy en USA. Vale la pena también para entender el entonro cultural dominante que proviene de ese lugar y tiempo en concreto.
+
+  
+- ***Pedro Páramo* — Juan Rulfo** = Breve pero que no he terminado. Leo un poco y me deja pensando.
+
+- ***El camino del Tao* - Lao Tse** = Leo, leo a parte breves. Leo un poco y necesito tiempo para porcesar lo que voy descubriendo. Es un libro para leer despacio, incluso volver a algunos apartes.
+  - 
 - *El efecto Lucifer* — Philip Zimbardo = Más de la verdadera [[La condición humana]]. Que sea en parte producto de un experiemnto es valioso porque no es teoría o supocisión.
 - *Batman: The Killing Joke* — Alan Moore
 - *The Universe in a Nutshell* — Stephen Hawking
