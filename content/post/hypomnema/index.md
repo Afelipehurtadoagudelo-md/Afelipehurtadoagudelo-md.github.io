@@ -4,7 +4,7 @@
 
 ---
 
-- ::Iconoclasta::. El modelo a seguir es una trampa: Te venden un espejo donde solo se ven ellos. Perdés tiempo y el virtuosismo de habitarte a vos mismo.
+- __Iconoclasta__. El modelo a seguir es una trampa: Te venden un espejo donde solo se ven ellos. Perdés tiempo y el virtuosismo de habitarte a vos mismo.
 
 ---
 
