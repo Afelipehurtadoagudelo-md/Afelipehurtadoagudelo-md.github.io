@@ -4,7 +4,6 @@ date: 2026-03-22
 draft: false
 tags: ["martin", "cartas", "paternidad", "verdad", "personal"]
 summary: "Escribo esto rápido, por si algo me pasa. Para que exista mi versión. Para que sepas que estuve."
-summary: "Escribo esto rápido, por si algo me pasa. Para que exista mi versión. Para que sepas que estuve."
 importance: 10
 ---
 
